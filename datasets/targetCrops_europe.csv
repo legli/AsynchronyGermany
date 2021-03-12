@@ -1,0 +1,80 @@
+crops,Name,NameFAO,Calories,Protein (g/t),Fat(g/t),Comments,FoodGroup,GrowthLength,GrowthStructure
+UAA,Utilised Agricultural Area,NA,NA,NA,NA,No crop,NA,NA,NA
+ARA,Arable land,NA,NA,NA,NA,No crop,NA,NA,NA
+C0000,Cereals for the production of grain (including seed),NA,NA,NA,NA,Top group,NA,NA,NA
+C1000,Cereals (excluding rice) for the production of grain (including seed),NA,NA,NA,NA,Top group,NA,NA,NA
+C1100,Wheat and spelt,WHEAT,NA,NA,NA,Top group,NA,NA,NA
+C1110,Common wheat and spelt,WHEAT,3340000,122000,23000,,cereals,annual,herbaceous
+C1111,Common winter wheat and spelt,WHEAT,NA,NA,NA,Sub group,NA,NA,NA
+C1112,Common spring wheat and spelt,WHEAT,NA,NA,NA,Sub group,NA,NA,NA
+C1120,Durum wheat,WHEAT,3340000,122000,23000,,cereals,annual,herbaceous
+C1200,Rye and winter cereal mixtures (maslin),RYE,3190000,110000,19000,,cereals,annual,herbaceous
+C1210,Rye,RYE,NA,NA,NA,Sub group,NA,NA,NA
+C1220,Winter cereal mixtures (maslin),NA,NA,NA,NA,Sub group,NA,NA,NA
+C1300,Barley,BARLEY,3320000,110000,18000,,cereals,annual,herbaceous
+C1310,Winter barley,BARLEY,NA,NA,NA,Sub group,NA,NA,NA
+C1320,Spring barley,BARLEY,NA,NA,NA,Sub group,NA,NA,NA
+C1400,Oats and spring cereal mixtures (mixed grain other than maslin),OATS,NA,NA,NA,Top group,NA,NA,NA
+C1410,Oats,OATS,3850000,130000,75000,,cereals,annual,herbaceous
+C1420,Spring cereal mixtures (mixed grain other than maslin),"GRAIN, MIXED",3400000,NA,NA,,cereals,annual,herbaceous
+C1500,Grain maize and corn-cob-mix,MAIZE,3560000,95000,43000,,cereals,annual,herbaceous
+C1600,Triticale,TRITICALE,3270000,116000,21000,,cereals,annual,herbaceous
+C1700,Sorghum,SORGHUM,3430000,101000,33000,,cereals,annual,herbaceous
+C1900,"Other cereals n.e.c. (buckwheat, millet, canary seed, etc.)","BUCKWHEAT, MILLET, CANARY SEED",3526666.667,122333.3333,36666.66667,Mean,cereals,annual,herbaceous
+C2000,Rice,RICE PADDY,2800000,60000,14000,,cereals,annual,herbaceous
+C2100,Rice Indica,RICE PADDY,NA,NA,NA,Sub group,NA,NA,NA
+C2200,Rice Japonica,RICE PADDY,NA,NA,NA,Sub group,NA,NA,NA
+P0000,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),NA,NA,NA,NA,,NA,NA,NA
+P1100,Field peas,"PEAS, DRY",3410000,225000,18000,,vegetables and melons,annual,herbaceous
+P1200,Broad and field beans,"Broad beans, horse beans, dry",3430000,234000,20000,,pulses,annual,herbaceous
+P1300,Sweet lupins,LUPINS,3900000,400000,130000,,pulses,annual,herbaceous
+P9000,Other dry pulses and protein crops n.e.c.,PULSES NES,3400000,220000,20000,,pulses,annual,herbaceous
+R0000,Root crops,NA,NA,NA,NA,Top group,NA,NA,NA
+R1000,Potatoes (including seed potatoes),POTATOES,670000,16000,1000,,roots and tubers,annual,herbaceous
+R2000,Sugar beet (excluding seed),SUGAR BEETS,700000,13000,1000,,sugar crops,annual,herbaceous
+R9000,Other root crops n.e.c.,"ROOTS, TUBERS NES",910000,16000,2000,,roots and tubers,annual,herbaceous
+I0000,Industrial crops,NA,NA,NA,NA,Top group,NA,NA,NA
+I1100,Oilseeds,NA,NA,NA,NA,Top group,NA,NA,NA
+I1110-1130,"Rape, turnip rape, sunflower seeds and soya",NA,NA,NA,NA,Top group,NA,NA,NA
+I1110,Rape and turnip rape seeds,RAPESEED,4940000,196000,450000,,oil crops,annual,herbaceous
+I1111,Winter rape and turnip rape seeds,RAPESEED,NA,NA,NA,Sub group,NA,NA,NA
+I1112,Spring rape and turnip rape seeds,RAPESEED,NA,NA,NA,Sub group,NA,NA,NA
+I1120,Sunflower seed,SUNFLOWER SEED,3080000,123000,268000,,oil crops,annual,herbaceous
+I1130,Soya,SOYBEANS,3350000,380000,180000,,oil crops,annual,herbaceous
+I1140,Linseed (oilflax),LINSEED,4980000,180000,340000,,oil crops,annual,herbaceous
+I1150,Cotton seed,COTTONSEED,2530000,173000,179000,,fiber,annual,herbaceous
+I1190,Other oilseed crops n.e.c.,OILSEEDS NES,3870000,147000,317000,,oil crops,annual,herbaceous
+I2000,Fibre crops,NA,NA,NA,NA,Unspecific,NA,NA,NA
+I2100,Fibre flax,NA,NA,NA,NA,No calories,NA,NA,NA
+I2200,Hemp,NA,NA,NA,NA,No calories,NA,NA,NA
+I2300,Cotton fibre,NA,NA,NA,NA,Avoid double counting with cottong seed,NA,NA,NA
+I2900,Other fibre crops n.e.c.,NA,NA,NA,NA,Unspecific,NA,NA,NA
+I3000,Tobacco,NA,NA,NA,NA,No calories,NA,NA,NA
+I4000,Hops,NA,NA,NA,NA,No calories,NA,NA,NA
+I5000,"Aromatic, medicinal and culinary plants",NA,NA,NA,NA,Unspecific,NA,NA,NA
+I6000,Energy crops n.e.c.,NA,NA,NA,NA,Unspecific,NA,NA,NA
+I9000,Other industrial crops n.e.c.,NA,NA,NA,NA,Unspecific,NA,NA,NA
+G0000,Plants harvested green from arable land,NA,NA,NA,NA,Unspecific,NA,NA,NA
+G1000,Temporary grasses and grazings,NA,NA,NA,NA,Unspecific,NA,NA,NA
+G2000,Leguminous plants harvested green,NA,NA,NA,NA,Unspecific,NA,NA,NA
+G2100,Lucerne,NA,NA,NA,NA,No calories,NA,NA,NA
+G2900,Other leguminous plants harvested green n.e.c.,NA,NA,NA,NA,Unspecific,NA,NA,NA
+G2910,Clover and mixtures,NA,NA,NA,NA,No calories,NA,NA,NA
+G3000,Green maize,MAIZE,3560000,95000,43000,,cereals,annual,herbaceous
+G9100,Other cereals harvested green (excluding green maize),NA,NA,NA,NA,Unspecific,NA,NA,NA
+G9900,Other plants harvested green from arable land n.e.c.,NA,NA,NA,NA,Unspecific,NA,NA,NA
+V0000_S0000,Fresh vegetables (including melons) and strawberries,VEGETABLES NES FRESH,220000,14000,2000,,vegetables and melons,annual,herbaceous
+N0000,Flowers and ornamental plants (excluding nurseries),NA,NA,NA,NA,No crop,NA,NA,NA
+E0000,Seeds and seedlings,NA,NA,NA,NA,No crop,NA,NA,NA
+ARA99,Other arable land crops n.e.c.,NA,NA,NA,NA,Unspecific,NA,NA,NA
+Q0000,Fallow land,NA,NA,NA,NA,No crop,NA,NA,NA
+J0000,Permanent grassland,NA,NA,NA,NA,No crop,NA,NA,NA
+PECR,Permanent crops,NA,NA,NA,NA,Unspecific,NA,NA,NA
+F0000,"Fruits, berries and nuts (excluding citrus fruits, grapes and strawberries)",FRUIT NES FRESH,450000,5000,5000,,fruit,perennial,tree
+T0000,Citrus fruits,CITRUS FRUIT NES,260000,5000,2000,,fruit,perennial,tree
+W1000,Grapes,GRAPES,530000,5000,4000,,fruit,perennial,shrub
+O1000,Olives,OLIVES,1750000,13000,175000,,oil crops,perennial,tree
+H9000,Other permanent crops for human consumption n.e.c.,NA,NA,NA,NA,Unspecific,NA,NA,NA
+L0000,Nurseries,NA,NA,NA,NA,No crop,NA,NA,NA
+PECR9,Other permanent crops,NA,NA,NA,NA,Unspecific,NA,NA,NA
+K0000,Kitchen gardens,NA,NA,NA,NA,Unspecific,NA,NA,NA

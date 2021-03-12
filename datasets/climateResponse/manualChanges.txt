@@ -1,0 +1,8 @@
+barley:
+prec 110 -> 1100
+
+potato: 
+temp 10 -> removed
+
+rapeseed:
+prec 110 -> 1100

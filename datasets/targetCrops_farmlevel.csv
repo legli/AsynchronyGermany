@@ -1,0 +1,35 @@
+cropTestbetrieb,cropFAO,Calories,source,comment,codeTestbetrieb,FoodGroup,GrowthLength,GrowthStructure
+Äpfel,apples,480000,http://www.fao.org/3/x9892e/X9892e05.htm#P8217_125339,,z4200,fruit,perennial,tree
+Ackerbohnen,broad beans dry,3430000,http://www.fao.org/3/x9892e/X9892e05.htm#P8217_125325,broad beans dry better reflect FAO values than broad beens green,z4020,pulses,annual,herbaceous
+Süßkirschen,cherries,650000,http://www.fao.org/3/x9892e/X9892e05.htm#P8217_125341,,z4202,fruit,perennial,tree
+CCM,maize,1780000,http://www.fao.org/3/x9892e/X9892e05.htm#P8217_125323,half equivalent of maize (see Ausführungsanweisung),z4011,cereals,annual,herbaceous
+"Hartweizen, Durum",wheat,3340000,http://www.fao.org/3/x9892e/X9892e05.htm#P8217_125317,,z4003,cereals,annual,herbaceous
+Energiemais,maize,3560000,http://www.fao.org/3/x9892e/X9892e05.htm#P8217_125335,,z4032,cereals,annual,herbaceous
+Körnermais,maize,3560000,http://www.fao.org/3/x9892e/X9892e05.htm#P8217_125322,,z4010,cereals,annual,herbaceous
+Öllein,linseed,4980000,http://www.fao.org/3/x9892e/X9892e05.htm#P8217_125334,,z4030,oil crops,annual,herbaceous
+Hafer,oats,3850000,http://www.fao.org/3/x9892e/X9892e05.htm#P8217_125321,,z4007,cereals,annual,herbaceous
+Andere Ölsaaten (außer Öllein),oilseeds nes,3870000,http://www.fao.org/3/x9892e/X9892e05.htm#P8217_125333,,z4028,oil crops,annual,herbaceous
+Futtererbsen,peas dry,3460000,http://www.fao.org/3/x9892e/X9892e05.htm#P8217_125326,peas dry better reflect FAO values than peas green,z4021,pulses,annual,herbaceous
+Pflaumen und Zwetschgen,plums,520000,http://www.fao.org/3/x9892e/X9892e05.htm#P8217_125343,,z4204,fruit,perennial,tree
+Sonstiges Kernobst,pome fruit nes,480000,http://www.fao.org/3/x9892e/X9892e05.htm#P8217_125340,,z4201,fruit,perennial,tree
+Kartoffeln,potatoes,670000,http://www.fao.org/3/x9892e/X9892e05.htm#P8217_125336,,z4039,roots and tubers,annual,herbaceous
+Sonstige Hülsenfrüchte,lupins,3900000,http://www.fao.org/3/x9892e/X9892e05.htm#P8217_125328,domance by lupins in Germany,z4023,pulses,annual,herbaceous
+Sonstige Hülsenfrüchte für Futterzwecke,lupins,3900000,http://www.fao.org/3/x9892e/X9892e05.htm#P8217_125327,domance by lupins in Germany,z4022,pulses,annual,herbaceous
+Roggen,rye,3190000,http://www.fao.org/3/x9892e/X9892e05.htm#P8217_125318,,z4004,cereals,annual,herbaceous
+Sommergerste,barley,3320000,http://www.fao.org/3/x9892e/X9892e05.htm#P8217_125320,,z4006,cereals,annual,herbaceous
+Sommerweizen,wheat,3340000,http://www.fao.org/3/x9892e/X9892e05.htm#P8217_125316,,z4002,cereals,annual,herbaceous
+"Sauerkirschen, Schattenmorellen",sour cherry,450000,http://www.fao.org/3/x9892e/X9892e05.htm#P8217_125342,,z4203,fruit,perennial,tree
+Sojabohnen,soybeans,3350000,http://www.fao.org/3/x9892e/X9892e05.htm#P8217_125332,,z4027,oil crops,annual,herbaceous
+Sonstiges Steinobst,stone fruit nes,520000,http://www.fao.org/3/x9892e/X9892e05.htm#P8217_125344,,z4205,fruit,perennial,tree
+Zuckerrüben,sugar beets,700000,http://www.fao.org/3/x9892e/X9892e05.htm#P8217_125337,,z4040,sugar crops,annual,herbaceous
+Sommerraps und Rübsen,rapeseed,4940000,http://www.fao.org/3/x9892e/X9892e05.htm#P8217_125330,,z4025,oil crops,annual,herbaceous
+Sonnenblumen,sunflower seed,3080000,http://www.fao.org/3/x9892e/X9892e05.htm#P8217_125331,,z4026,oil crops,annual,herbaceous
+Triticale,triticale,3270000,http://www.fao.org/3/x9892e/X9892e05.htm#P8217_125324,,z4012,cereals,annual,herbaceous
+Wintergerste,barley,3320000,http://www.fao.org/3/x9892e/X9892e05.htm#P8217_125319,,z4005,cereals,annual,herbaceous
+Winterraps,rapeseed,4940000,http://www.fao.org/3/x9892e/X9892e05.htm#P8217_125329,,z4024,oil crops,annual,herbaceous
+"Winterweizen, Dinkel",wheat,3340000,http://www.fao.org/3/x9892e/X9892e05.htm#P8217_125315,,z4001,cereals,annual,herbaceous
+Sonstiges Getreide,mixed grain,3400000,http://www.fao.org/3/x9892e/X9892e05.htm#P8217_125315,,z4017,cereals,annual,herbaceous
+Erdbeeren,strawberries,280000,http://www.fao.org/3/x9892e/X9892e05.htm#P8217_125315,,z4207,fruit,perennial,shrub
+Energierüben,sugar beets,700000,http://www.fao.org/3/x9892e/X9892e05.htm#P8217_125337,,z4035,sugar crops,annual,herbaceous
+Energiegetreide,mixed grain,3400000,http://www.fao.org/3/x9892e/X9892e05.htm#P8217_125315,,z4031,cereals,annual,herbaceous
+Energieölsaaten,rapeseed,4940000,http://www.fao.org/3/x9892e/X9892e05.htm#P8217_125330,mainly rapeseed is used for energy production,z4034,oil crops,annual,herbaceous
